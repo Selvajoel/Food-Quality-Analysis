@@ -1,5 +1,5 @@
-# Food-Quality-Analysis
 
+# Food Quality Detector
 
 ## Description
 
